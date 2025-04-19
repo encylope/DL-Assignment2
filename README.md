@@ -1,4 +1,6 @@
 # NA21B075-DA6401-Assignment2
+Link to the wandb report: https://wandb.ai/na21b075-indian-institute-of-technology-madras/asgn2_q1_torch/reports/NA21B075-s-DA6401-Assignment-2--VmlldzoxMjM1NDMzNA?accessToken=0kmissa8gc0hu4wifknirjeqoulf68l3b9xh0tn6r1r3kh4y6es78tjaqn9pcn07
+
 This repository contains code for training a Convolutional Neural Network (CNN) using PyTorch and optimizing its performance using Weights and Biases (wandb) for hyperparameter sweeps, logging, and visualization.
 
 **Part A**
