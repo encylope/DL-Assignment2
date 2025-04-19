@@ -17,6 +17,7 @@ A 10 x 3 grid of sample images from the test set along with the predictions made
 Visualization of all filters from the first convolutional layer for a randomly selected test image to help understand what kind of features the model has learned.
 
 **Part B**
+
 This folder contains code for fine-tuning pretrained ResNet50 models using transfer learning on the iNaturalist dataset. It includes three fine-tuning strategies:
 Freezing all layers except the final classification layer.
 Unfreezing only the last two blocks of ResNet (layer3 and layer4).
